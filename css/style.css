@@ -1,0 +1,102 @@
+body{
+  font-family: 'ABeeZee';
+  background-color: #B0E0E6;
+  padding: 0;
+  margin: 0;
+}
+#title{
+  text-align: center;
+  font-weight: bolder;
+  margin-top: 20px;
+  font-size: 60px;
+  font-family: 'Archivo Black';
+}
+.breadcrumb{
+  
+  font-size: 25px;
+  position: relative;
+  padding: 50px;
+  font-family: 'Holtwood One SC';
+
+}
+.h21{
+  font-weight: bolder;
+  position: relative;
+  padding: 25px;
+  background-color: aqua;
+  text-align: center;
+  margin: 10px;
+}
+img{
+  margin-left: 30px;
+}
+.col-sm-2{
+  margin-top: 30px;
+}
+#copy{
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.container-fluid-2 {
+background-color: 	#9ACD32; 
+
+}
+#ylogo{ 
+margin-left: 30em;
+padding-bottom: 40px;
+margin-right: 30em;
+}
+.col-sm-10{
+  padding-top: 40px;
+}
+
+img {
+  max-width: 120%;
+  height: auto;
+}
+.row-cols-3{
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+}
+#yhteys{
+  float: inline-start;
+  margin-top: 40px;
+}
+#footer-logo{
+  margin-bottom: 40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;    
+}
+
+/* @media (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+@media (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }    
+}
+
+@media screen and (max-width: 600px) {
+  nav a {
+      float: none !important;
+      width: 100% !important;    
+      font-size: 1em !important;
+  }
+  
+  #top{
+      font-size: 3em !important;
+      font-weight: 1200 !important;
+  }
+
+  .column1, .column2{
+      width: 100%;
+  }
+} */
